@@ -1,5 +1,5 @@
 :pager: ​Interface de login do Instagram
 
-![Instagram-homepage-pc](C:\Users\israe\OneDrive\Área de Trabalho\Estudo HTML, CSS e JavaScript\img\Instagram-homepage-pc.PNG)
+<img src="img\Instagram-homepage-pc.PNG" width="350" title="hover text">
 
-![Instagram-homepage-cel](C:\Users\israe\OneDrive\Área de Trabalho\Estudo HTML, CSS e JavaScript\img\Instagram-homepage-cel.PNG)
+<img src="img\Instagram-homepage-cel.PNG" width="350" title="hover text">
